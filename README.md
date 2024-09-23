@@ -1,0 +1,1 @@
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=searchbox-on-koyeb&type=git&repository=edouardb%2Fsearchbox-on-koyeb&branch=main&builder=dockerfile&instance_type=eco-2xlarge&regions=was&env%5B%5D=&ports=8080%3Bhttp%3B%2F&hc_grace_period%5B8080%5D=60)
